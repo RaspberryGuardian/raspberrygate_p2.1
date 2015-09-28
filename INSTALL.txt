@@ -1,0 +1,18 @@
+Raspberry Gate for Raspberry Guardian. Prototype Version 2.0.
+
+
+"rbg" (aka Raspberry Gate for Raspberry Guardian ) is used for
+Raspberry Pi easy security gate way. This version is very early
+prototype software and is not stable yet. Use this at own your risk.
+
+HOWTO INSTALL
+-------------
+
+# sh install.sh
+
+
+User's document is not available yet.
+
+
+
+

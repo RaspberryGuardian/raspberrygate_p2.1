@@ -1,0 +1,8 @@
+bc
+udhcpd
+ntp
+bridge-utils
+geoip-bin
+dnsutils
+
+

@@ -1,0 +1,24 @@
+shutdown button deamon is an optional function for Raspberry Gate box.
+
+If you have a shutdown switch which must be assigned GPIO-18, you can
+use this shutdown deamon.
+
+-----
+
+HOW TO INSTALL
+==============
+
+# cp shutdownswitchdeamon.sh /usr/sbin
+# chmod +x /usr/sbin/shutdownswitchdeamon.sh
+
+# cp shutdownsw.sh /etc/init.d
+# chmod +x /etc/init.d/shutdownsw.sh
+# /usr/sbin/update-rc.d shutdownsw.sh defaults
+
+HOW TO USE
+===========
+
+Push shutdown button for 10 seconds. Then shutdown will be started.
+
+
+

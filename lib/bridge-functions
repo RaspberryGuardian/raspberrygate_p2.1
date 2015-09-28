@@ -1,0 +1,5 @@
+# /opt/rbg/lib/bridge-functions for Raspberry Gate  -*- shell-script -*-
+
+
+bridge_init() {
+}

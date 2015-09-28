@@ -1,0 +1,5 @@
+# /opt/rbg/lib/router-functions for Raspberry Gate  -*- shell-script -*-
+
+
+router_init() {
+}
